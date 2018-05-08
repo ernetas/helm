@@ -1,0 +1,7 @@
+Package: helm
+Version: version
+Section: base
+Priority: optional
+Architecture: amd64
+Maintainer: Ernestas Lukosevicius <ernetas@gmail.com>
+Description: Helm executable

@@ -1,0 +1,2 @@
+#!/bin/bash
+chown root:root /usr/bin/helm && chmod 755 /usr/bin/helm

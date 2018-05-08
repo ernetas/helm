@@ -1,0 +1,7 @@
+helm (version) bionic; urgency=high
+
+  [ Ernestas Lukosevicius ]
+  All updates are important! Refer to Docker Compose changelog at https://github.com/kubernetes/helm/releases
+
+ -- Ernestas Lukosevicius <ernetas@gmail.com> 
+
