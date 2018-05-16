@@ -1,6 +1,6 @@
 NAME = helm
 # Major version relates to upstream version of Helm
-MAJOR = 2.9.0
+MAJOR = 2.9.1
 # Minor version is only for versioning this package
 MINOR = 0
 VERSION = $(MAJOR)-$(MINOR)
